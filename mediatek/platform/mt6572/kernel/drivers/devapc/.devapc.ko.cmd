@@ -1,0 +1,1 @@
+cmd_mediatek/platform/mt6572/kernel/drivers/devapc/devapc.ko := arm-linux-androideabi-ld.bfd -EL -r  -T /home/ubuntu/Project/KernelSource/alps/kernel/scripts/module-common.lds --build-id  -o mediatek/platform/mt6572/kernel/drivers/devapc/devapc.ko mediatek/platform/mt6572/kernel/drivers/devapc/devapc.o mediatek/platform/mt6572/kernel/drivers/devapc/devapc.mod.o

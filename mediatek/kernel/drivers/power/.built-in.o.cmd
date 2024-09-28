@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/power/built-in.o :=  arm-linux-androideabi-ld.bfd -EL    -r -o mediatek/kernel/drivers/power/built-in.o mediatek/kernel/drivers/power/battery_meter.o mediatek/kernel/drivers/power/battery_common.o mediatek/kernel/drivers/power/linear_charging.o 

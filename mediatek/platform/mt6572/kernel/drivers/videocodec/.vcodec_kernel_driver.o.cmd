@@ -1,0 +1,1 @@
+cmd_mediatek/platform/mt6572/kernel/drivers/videocodec/vcodec_kernel_driver.o := arm-linux-androideabi-ld.bfd -EL    -r -o mediatek/platform/mt6572/kernel/drivers/videocodec/vcodec_kernel_driver.o mediatek/platform/mt6572/kernel/drivers/videocodec/videocodec_kernel_driver.o mediatek/platform/mt6572/kernel/drivers/videocodec/codec/common/val/linux/kernel/val.o 

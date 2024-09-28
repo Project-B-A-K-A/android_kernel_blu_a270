@@ -1,0 +1,5 @@
+kernel/mediatek/platform/mt6572/kernel/drivers/dual_ccci/ccci_plat.ko
+kernel/mediatek/platform/mt6572/kernel/drivers/videocodec/vcodec_kernel_driver.ko
+kernel/mediatek/platform/mt6572/kernel/drivers/devinfo/devinfo.ko
+kernel/mediatek/platform/mt6572/kernel/drivers/masp/sec.ko
+kernel/mediatek/platform/mt6572/kernel/drivers/devapc/devapc.ko

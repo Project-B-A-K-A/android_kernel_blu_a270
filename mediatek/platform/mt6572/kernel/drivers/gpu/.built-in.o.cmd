@@ -1,0 +1,1 @@
+cmd_mediatek/platform/mt6572/kernel/drivers/gpu/built-in.o :=  arm-linux-androideabi-ld.bfd -EL    -r -o mediatek/platform/mt6572/kernel/drivers/gpu/built-in.o mediatek/platform/mt6572/kernel/drivers/gpu/mali/built-in.o 
